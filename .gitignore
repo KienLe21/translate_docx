@@ -1,0 +1,11 @@
+/__pycache__
+/myenv
+/unzipped_content
+
+*.docx
+*.json
+*.zip
+*.xml
+
+.~lock.sample.docx#
+texts.txt

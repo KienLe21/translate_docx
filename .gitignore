@@ -7,5 +7,5 @@
 *.zip
 *.xml
 
-.~lock.sample.docx#
+.~lock.output.docx#
 texts.txt
